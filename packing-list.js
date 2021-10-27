@@ -8,4 +8,3 @@ i++;
 }
 
 //while loop zzzzzzzzzzzzzzzzz
-console.log(packinglist);
